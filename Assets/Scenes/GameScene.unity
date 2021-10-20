@@ -340,7 +340,7 @@ GameObject:
   - component: {fileID: 183629495}
   m_Layer: 0
   m_Name: Coin (1)
-  m_TagString: Untagged
+  m_TagString: Coin
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -615,7 +615,7 @@ GameObject:
   - component: {fileID: 303360647}
   m_Layer: 0
   m_Name: Coin (4)
-  m_TagString: Untagged
+  m_TagString: Coin
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1312,6 +1312,7 @@ GameObject:
   - component: {fileID: 504244545}
   - component: {fileID: 519159745}
   - component: {fileID: 517915969}
+  - component: {fileID: 513957026}
   m_Layer: 0
   m_Name: FPSController
   m_TagString: Untagged
@@ -1319,6 +1320,18 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!114 &513957026
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 513957025}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d0adaef9afea7343acec5fa1855f47a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &513957027
 GameObject:
   m_ObjectHideFlags: 0
@@ -1634,7 +1647,7 @@ GameObject:
   - component: {fileID: 607525404}
   m_Layer: 0
   m_Name: Coin (3)
-  m_TagString: Untagged
+  m_TagString: Coin
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2197,7 +2210,7 @@ GameObject:
   - component: {fileID: 1210601432}
   m_Layer: 0
   m_Name: Coin (5)
-  m_TagString: Untagged
+  m_TagString: Coin
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3027,7 +3040,7 @@ GameObject:
   - component: {fileID: 1701138028}
   m_Layer: 0
   m_Name: Coin (2)
-  m_TagString: Untagged
+  m_TagString: Coin
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
